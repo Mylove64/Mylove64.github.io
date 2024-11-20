@@ -1,5 +1,13 @@
-[html]
+<html>
+<header>
 
 <p> Hello there. Test 1. <p/>
+<header/>
+<body>
+<p> What's up. This is really just a simple website so far, but soon it will be big. <p/>
+<body/>
 
-[html/]
+<footer>
+<p> The test seems to work, and starting in a few weeks, I will start to modify this.<p/>
+<footer/>
+<html/>
