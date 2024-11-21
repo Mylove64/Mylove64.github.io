@@ -1,10 +1,9 @@
 body {
- background-image: url("64backG.png");
+  background-image: url("64backG.png");
 }
 
 p {
   font-family: arial;
-  color: white;
   size: 50px;
 }
 
@@ -12,3 +11,6 @@ bold {
   background-color: rgba(160, 240,20,0.502);
 }
 
+.clrW {
+  color: white;
+}
