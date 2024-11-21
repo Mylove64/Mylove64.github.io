@@ -1,13 +1,14 @@
 body {
- background-image: url("64 BG.png");
+ background-image: url("64backG.png");
 }
 
 p {
   font-family: arial;
-  color: dark-gray;
+  color: white;
   size: 50px;
 }
 
 bold {
   background-color: rgba(160, 240,20,0.502);
 }
+
