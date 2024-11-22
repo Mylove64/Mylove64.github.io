@@ -6,12 +6,9 @@ body {
 p {
   font-family: arial;
   size: 50px;
+  color: white;
 }
 
 bold {
   background-color: rgba(160, 240,20,0.502);
-}
-
-.clrW {
-  color: white;
 }
