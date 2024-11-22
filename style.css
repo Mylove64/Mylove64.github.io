@@ -4,6 +4,7 @@ body {
 }
 
 p {
+  text-align: center;
   font-family: arial;
   size: 50px;
   color: white;
@@ -11,4 +12,8 @@ p {
 
 bold {
   background-color: rgba(160, 240,20,0.502);
+}
+
+t1 {
+  position: auto;
 }
