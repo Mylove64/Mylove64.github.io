@@ -1,6 +1,7 @@
 body {
-  background-image: url("imgs/64 BG.png");
-  fill: cover;
+  background-image: url("imgs/64backG.png");
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 p {
